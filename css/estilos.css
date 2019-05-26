@@ -1,6 +1,6 @@
 .imgfondo{
     /* The image used */
-    background-image: url("../img/pizza.jpg");
+    background-image: url("../img/git-banner1.png");
 
     /* Set a specific height */
     height: 1100px; 
@@ -43,7 +43,7 @@
 }
 #centro-nombre{
     text-align: center;
-    color: white;
+    color: #FFEB3B;
     font-family: 'Merienda', cursive;
     font-size: 100px;
 }
@@ -106,7 +106,7 @@ footer{
     padding-top: 30px;
 }
 #autoria{
-    height: 50px;
+    height: 75px;
     background: black;
 }
 #autor{
